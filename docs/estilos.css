@@ -238,6 +238,7 @@ nav .enlaces a:hover{
 
 .content-card a:hover {
   background-color: #fff;
+  border: 1px solid #000;
   color: #000;
 }
 
